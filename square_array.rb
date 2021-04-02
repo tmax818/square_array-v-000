@@ -6,3 +6,4 @@ def square_array(array)
   end 
   sq_arr
 end
+
